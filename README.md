@@ -1,9 +1,10 @@
 # electron-app
 
 **About this app**
-This is personal project to explore and experiment with electron. The app is based on [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation. This project is in progress... All suggestions are welcome.
 
-**Use this app along with the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
+This is personal project to explore and experiment with electron. This app is under constuction. 
+
+The original structure is based on [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
 
 A basic Electron application needs just these files:
 
@@ -26,9 +27,6 @@ npm install
 # Run the app
 npm start
 ```
-
-## About this app
-This is personal project to explore and experiment with electron. All suggestions are welcome
 
 ## License
 

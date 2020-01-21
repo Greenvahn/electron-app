@@ -1,7 +1,7 @@
 # electron-app
 
 **About this app**
-This is personal project to explore and experiment with electron. The app is based on [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation. All suggestions are welcome.
+This is personal project to explore and experiment with electron. The app is based on [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation. This project is in progress... All suggestions are welcome.
 
 **Use this app along with the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
 
